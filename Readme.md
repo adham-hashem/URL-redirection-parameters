@@ -6,7 +6,8 @@ This repository contains a comprehensive `.txt` list of **common URL redirection
 
 ## 📂 File Structure
 
-- `redirect-parameters.txt`: A flat list of redirection-related URL parameters, each formatted as: ?parameter=[redirect]
+- `redirect-parameters.txt`: A flat list of redirection-related URL parameters, each formatted as:
+?parameter=[redirect]
 
 ---
 
